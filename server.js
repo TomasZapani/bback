@@ -8,7 +8,7 @@ const io = new Server(server);
 
 const cors = require('cors');
 app.use(cors({
-    origin: 'https://678af49b32c69ca42fbf2663--regal-swan-bcea50.netlify.app/' // Tu dominio de frontend en Cloudflare
+    origin: 'https://it26.pages.dev' // Tu dominio de frontend en Cloudflare
   }));
   
 
